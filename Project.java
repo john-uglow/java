@@ -1,5 +1,3 @@
-// Name: Uglow, John  CMIS 141/6386  10/9/2022
-
 import java.util.Scanner;
 
 public class Project {
